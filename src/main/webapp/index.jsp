@@ -8,9 +8,11 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title></title>
+    <title>Welcome Fobule</title>
   </head>
   <body>
-
+    <div style="text-align: center">
+      <strong>Coming soon!</strong>
+    </div>
   </body>
 </html>
